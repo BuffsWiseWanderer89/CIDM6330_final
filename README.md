@@ -74,6 +74,9 @@ Scenario: Volunteer (User) Photographs Cigarette Butts
 ## Component Diagram
 [component_diagram.pdf](https://github.com/user-attachments/files/20154290/component_diagram.pdf)
 
+## Sequence Diagram
+[sequence_diagram.pdf](https://github.com/user-attachments/files/20154378/sequence_diagram.pdf)
+
 ## State Machine Diagram
 [state_machine_diagram.pdf](https://github.com/user-attachments/files/20154291/state_machine_diagram.pdf)
 
