@@ -6,9 +6,9 @@ from ninja import NinjaAPI
 from ninja import Schema, Field
 from ninja import UploadedFile, File
 
-from job.models import User
+from app.models import User
 
-from job.tasks import send_welcome_email, generate_user_report
+from app.tasks import send_welcome_email, generate_user_report
 
 
 # this is an input schema for the user model

@@ -1,4 +1,4 @@
-from assignment_5.myproject.celery_app import shared_task
+from celery_app import shared_task
 import time
 from django.core.mail import send_mail
 from django.conf import settings
