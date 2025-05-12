@@ -64,8 +64,23 @@ Scenario: Volunteer (User) Photographs Cigarette Butts
 ###  Interfaces (Controls)
 
 ### Behaviors
-Feature/PackageA
-![UML_Class_Diagram drawio (1)](https://github.com/user-attachments/assets/c7febc47-feff-4cc1-ba3d-3642ba321d6e)
 
-Feature/PackageN
-![UML_Activity_Diagram drawio (1)](https://github.com/user-attachments/assets/d196c118-1bc7-4a75-a85c-56f4099bab67)
+## Activity Diagram
+[activity_diagram.pdf](https://github.com/user-attachments/files/20154285/activity_diagram.pdf)
+
+## Class Diagram
+[class_diagram.pdf](https://github.com/user-attachments/files/20154286/class_diagram.pdf)
+
+## Component Diagram
+[component_diagram.pdf](https://github.com/user-attachments/files/20154290/component_diagram.pdf)
+
+## Sequence Diagram
+[sequence_diagram.pdf](https://github.com/user-attachments/files/20154378/sequence_diagram.pdf)
+
+## State Machine Diagram
+[state_machine_diagram.pdf](https://github.com/user-attachments/files/20154291/state_machine_diagram.pdf)
+
+## Use Case Diagram
+[use_case_diagram.pdf](https://github.com/user-attachments/files/20154293/use_case_diagram.pdf)
+
+
